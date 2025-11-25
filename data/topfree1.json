@@ -4,62 +4,62 @@
     "results": [
       {
         "name": "TikTok",
-        "artistName": "TikTok Ltd.",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/46/16/e646166a-8ab8-a678-04cf-ef8e9cfae3ed/AppIcon.png/100x100bb.png",
+        "artistName": "TikTok Pte. Ltd.",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6b/e4/216be424-cfb6-891d-1af6-0f55a67c00af/AppIcon.png/100x100bb.jpg",
         "id": "835599320"
       },
       {
         "name": "Instagram",
         "artistName": "Meta Platforms, Inc.",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/88/64/78886448-ef66-69da-5572-e30d32f42609/AppIcon.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/88/64/78886448-ef66-69da-5572-e30d32f42609/logo.png/100x100bb.jpg",
         "id": "389801252"
       },
       {
         "name": "YouTube",
         "artistName": "Google LLC",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/38/59/60385992-c681-66fe-c1d7-62216e7ef923/logo_youtube_color_in_app_icon.png/100x100bb.png",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple221/v4/60/38/59/60385992-c681-66fe-c1d7-62216e7ef923/logo_youtube_color_in_app_icon.png/100x100bb.jpg",
         "id": "544007664"
       },
       {
         "name": "WhatsApp Messenger",
         "artistName": "WhatsApp Inc.",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ba/24/7aba245c-8332-9e7d-251c-2c932a0a220c/AppIcon.png/100x100bb.png",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/36/55/2f36556b-7a38-b86d-c599-b3df76e88626/AppIcon.png/100x100bb.jpg",
         "id": "310633997"
       },
       {
         "name": "Snapchat",
         "artistName": "Snap, Inc.",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/61/69/f761697d-e82c-42ec-2553-e77e4f3e42c4/AppIcon.png/100x100bb.png",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/62/b7/8b/62b78b92-54a4-0e61-10a1-f04fa8b0ba60/AppIcon.png/100x100bb.jpg",
         "id": "447188370"
       },
       {
         "name": "Google Maps",
         "artistName": "Google LLC",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/93/e9/3493e9cb-0f43-05cd-e467-857fff07a55c/AppIcon.png/100x100bb.png",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple121/v4/b5/1c/09/b51c09c2-32b8-5141-efcb-3e88bb08e3f3/AppIcon.png/100x100bb.jpg",
         "id": "585027354"
       },
       {
         "name": "Spotify",
         "artistName": "Spotify",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/ae/50/0aae5063-53b4-94a5-eca2-1d0c4b0b5f51/AppIcon.png/100x100bb.png",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/03/57/7d035787-352d-3509-b7eb-4607f8c4450d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
         "id": "324684580"
       },
       {
         "name": "Telegram",
         "artistName": "Telegram FZ-LLC",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/f4/54/72f454ae-14c5-7e5a-77b2-a2ea8c2a0884/AppIcon.png/100x100bb.png",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/7d/e8/1a7de8b1-39e8-2282-034b-693ee741bd06/AppIcon.png/100x100bb.jpg",
         "id": "686449807"
       },
       {
         "name": "Google",
         "artistName": "Google LLC",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/23/f7/5e23f783-76a4-8812-fc64-54a5b1e6bde7/logo_google_color_1024.png/100x100bb.png",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/c1/04/e5c10427-7eca-6f85-9aa9-37eb655e5219/logo_google_color_1024.png/100x100bb.jpg",
         "id": "284815942"
       },
       {
         "name": "Pinterest",
         "artistName": "Pinterest",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/5a/07/065a07aa-fec0-d6a1-1240-65bd3aede735/AppIcon-0-1x_U007emarketing-85-220-0-5.png/100x100bb.png",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b0/56/81b0564d-c72e-254e-3110-6b5047357c8c/AppIcon.png/100x100bb.jpg",
         "id": "429047995"
       }
     ]
