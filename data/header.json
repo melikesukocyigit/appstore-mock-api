@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "id": "111",
+      "title": "Trending App",
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Spotify"
+    },
+    {
+      "id": "112",
+      "title": "Featured",
+      "imageUrl": "https://picsum.photos/200",
+      "name": "Netflix"
+    }
+  ]
+}
