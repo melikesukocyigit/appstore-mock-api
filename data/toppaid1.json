@@ -3,64 +3,40 @@
     "title": "Top Paid Apps",
     "results": [
       {
-        "name": "Procreate",
-        "artistName": "Savage Interactive Pty Ltd",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/26/c9/83/26c98325-aee8-9c05-9a06-82335cf1aaba/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-        "id": "425073498"
+        "name": "Affinity Photo",
+        "artistName": "Serif Labs",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/affinity.png",
+        "id": "101"
       },
       {
         "name": "Facetune",
-        "artistName": "Lightricks Ltd.",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/27/68/a42768b4-0eee-6c9d-e023-4c331313abd2/AppIcon.png/100x100bb.jpg",
-        "id": "606310581"
+        "artistName": "Lightricks",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/facetune.png",
+        "id": "102"
+      },
+      {
+        "name": "Instagram+ (Premium Tools)",
+        "artistName": "Meta Tools",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/instagram.png",
+        "id": "103"
       },
       {
         "name": "Minecraft",
         "artistName": "Mojang",
-        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/69/5a/eb695ae5-d066-57d9-dbfe-8d7cb78abcc8/AppIcon.png/100x100bb.jpg",
-        "id": "479516143"
-      },
-      {
-        "name": "Shadowrocket",
-        "artistName": "Shadow Launch Technology Limited",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/98/96/5c9896fd-aa8d-9f42-86d2-9c25ab4d19a1/AppIcon-0-1x_U007emarketing-0-85-220.png/100x100bb.jpg",
-        "id": "932747118"
-      },
-      {
-        "name": "Weather Live°",
-        "artistName": "Apalon Apps",
-        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple211/v4/43/94/fb/4394fbcd-42eb-df73-f5db-cd2aa2fea8d4/AppIcon.png/100x100bb.jpg",
-        "id": "749133753"
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/minecraft.png",
+        "id": "104"
       },
       {
         "name": "Monument Valley",
         "artistName": "ustwo games",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/80/f2/7b/80f27b8d-dccb-c975-e062-16d5a99998a0/AppIcon.png/100x100bb.jpg",
-        "id": "728293409"
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/monumentvalley.jpg",
+        "id": "105"
       },
       {
-        "name": "GoodNotes 6",
-        "artistName": "Time Base Technology Limited",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/4d/3c/0a4d3c88-5dcc-3763-0a1e-5a2d4b0dcb00/AppIcon.png/100x100bb.jpg",
-        "id": "1444383602"
-      },
-      {
-        "name": "Affinity Photo 2",
-        "artistName": "Serif Labs",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple221/v4/53/8e/24/538e2479-e88c-c329-8a5a-baa657d77972/AppIcon.png/100x100bb.jpg",
-        "id": "1594029373"
-      },
-      {
-        "name": "AutoSleep Track Sleep",
-        "artistName": "Tantsissa",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b7/1d/89b71df6-1d55-504f-5654-c33aeec1c2ac/AppIcon.png/100x100bb.jpg",
-        "id": "1164801111"
-      },
-      {
-        "name": "TouchRetouch",
-        "artistName": "ADVA Soft",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/9c/cb/309ccb2b-0d38-b8f0-dd10-4133be40e017/AppIcon.png/100x100bb.jpg",
-        "id": "373311252"
+        "name": "Procreate",
+        "artistName": "Savage Interactive",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/procreate.jpeg",
+        "id": "106"
       }
     ]
   }
