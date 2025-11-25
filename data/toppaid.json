@@ -1,0 +1,19 @@
+{
+  "feed": {
+    "title": "Top Paid Apps",
+    "results": [
+      {
+        "name": "Facetune",
+        "artistName": "Lightricks",
+        "artworkUrl100": "https://picsum.photos/100",
+        "id": "10"
+      },
+      {
+        "name": "Procreate",
+        "artistName": "Savage Interactive",
+        "artworkUrl100": "https://picsum.photos/100",
+        "id": "11"
+      }
+    ]
+  }
+}
