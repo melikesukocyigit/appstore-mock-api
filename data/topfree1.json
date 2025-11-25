@@ -5,62 +5,32 @@
       {
         "name": "TikTok",
         "artistName": "TikTok Pte. Ltd.",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6b/e4/216be424-cfb6-891d-1af6-0f55a67c00af/AppIcon.png/100x100bb.jpg",
-        "id": "835599320"
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/tiktok.png",
+        "id": "1"
       },
       {
         "name": "Instagram",
         "artistName": "Meta Platforms, Inc.",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/88/64/78886448-ef66-69da-5572-e30d32f42609/logo.png/100x100bb.jpg",
-        "id": "389801252"
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/instagram.png",
+        "id": "2"
       },
       {
         "name": "YouTube",
         "artistName": "Google LLC",
-        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple221/v4/60/38/59/60385992-c681-66fe-c1d7-62216e7ef923/logo_youtube_color_in_app_icon.png/100x100bb.jpg",
-        "id": "544007664"
-      },
-      {
-        "name": "WhatsApp Messenger",
-        "artistName": "WhatsApp Inc.",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/36/55/2f36556b-7a38-b86d-c599-b3df76e88626/AppIcon.png/100x100bb.jpg",
-        "id": "310633997"
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/youtube.png",
+        "id": "3"
       },
       {
         "name": "Snapchat",
         "artistName": "Snap, Inc.",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/62/b7/8b/62b78b92-54a4-0e61-10a1-f04fa8b0ba60/AppIcon.png/100x100bb.jpg",
-        "id": "447188370"
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/snapchat.jpg",
+        "id": "4"
       },
       {
-        "name": "Google Maps",
-        "artistName": "Google LLC",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple121/v4/b5/1c/09/b51c09c2-32b8-5141-efcb-3e88bb08e3f3/AppIcon.png/100x100bb.jpg",
-        "id": "585027354"
-      },
-      {
-        "name": "Spotify",
-        "artistName": "Spotify",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/03/57/7d035787-352d-3509-b7eb-4607f8c4450d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-        "id": "324684580"
-      },
-      {
-        "name": "Telegram",
-        "artistName": "Telegram FZ-LLC",
-        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/7d/e8/1a7de8b1-39e8-2282-034b-693ee741bd06/AppIcon.png/100x100bb.jpg",
-        "id": "686449807"
-      },
-      {
-        "name": "Google",
-        "artistName": "Google LLC",
-        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/c1/04/e5c10427-7eca-6f85-9aa9-37eb655e5219/logo_google_color_1024.png/100x100bb.jpg",
-        "id": "284815942"
-      },
-      {
-        "name": "Pinterest",
-        "artistName": "Pinterest",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b0/56/81b0564d-c72e-254e-3110-6b5047357c8c/AppIcon.png/100x100bb.jpg",
-        "id": "429047995"
+        "name": "WhatsApp Messenger",
+        "artistName": "WhatsApp Inc.",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/whatsapp.jpg",
+        "id": "5"
       }
     ]
   }
