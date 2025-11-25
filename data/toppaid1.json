@@ -2,25 +2,25 @@
   "feed": {
     "title": "Top Paid Apps",
     "results": [
+     
       {
-        "name": "Affinity Photo",
-        "artistName": "Serif Labs",
-        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/affinity.png",
-        "id": "1295101638"
+        "name": "Minecraft",
+        "artistName": "Mojang",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/minecraft.png",
+        "id": "479516143"
       },
       {
-        "name": "Facetune",
-        "artistName": "Lightricks",
-        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/facetune.png",
-        "id": "606310581"
+        "name": "Monument Valley",
+        "artistName": "ustwo games",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/monumentvalley.jpg",
+        "id": "728293409"
       },
       {
-        "name": "Instagram+ (Premium Tools)",
-        "artistName": "Meta Tools",
-        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/instagram.png",
-        "id": "389801252"
-      },
-      {
+        "name": "Procreate",
+        "artistName": "Savage Interactive",
+        "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/procreate.jpeg",
+        "id": "425073498"
+      },  {
         "name": "Minecraft",
         "artistName": "Mojang",
         "artworkUrl100": "https://raw.githubusercontent.com/melikesukocyigit/appstore-mock-api/main/icons/minecraft.png",
