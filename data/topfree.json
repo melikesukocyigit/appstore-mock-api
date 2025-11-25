@@ -1,0 +1,25 @@
+{
+  "feed": {
+    "title": "Top Free Apps",
+    "results": [
+      {
+        "name": "Instagram",
+        "artistName": "Meta Platforms",
+        "artworkUrl100": "https://picsum.photos/100",
+        "id": "1"
+      },
+      {
+        "name": "TikTok",
+        "artistName": "ByteDance",
+        "artworkUrl100": "https://picsum.photos/100",
+        "id": "2"
+      },
+      {
+        "name": "YouTube",
+        "artistName": "Google LLC",
+        "artworkUrl100": "https://picsum.photos/100",
+        "id": "3"
+      }
+    ]
+  }
+}
